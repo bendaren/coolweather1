@@ -1,5 +1,7 @@
 package com.example.bendaren.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by lenovo on 2017/4/22.
  */

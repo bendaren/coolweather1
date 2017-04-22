@@ -1,10 +1,12 @@
 package com.example.bendaren.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by lenovo on 2017/4/22.
  */
 
-public class City extends DataSupport{
+public class City extends DataSupport {
     private int id;
     private String cityName;
     private int cityCode;
